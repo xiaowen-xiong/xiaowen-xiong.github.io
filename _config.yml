@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaowen Xiong"
+title                    : "Xiaowen"
 title_separator          : "-"
 name                     : &name "Xiaowen Xiong"
 description              : &description "Dr. Xiaowen"
