@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2024
+------
+- Adversarial Attacks on Cooperative Multi-agent Bandits.  
+**Jinhang Zuo<sup>\*</sup>**, Zhiyao Zhang<sup>\*</sup>, Xuchuang Wang<sup>\*</sup>, Cheng Chen, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman. (*Equal Contribution)  
+Preprint. [[arXiv]](https://arxiv.org/abs/2311.01698)
